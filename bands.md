@@ -47,7 +47,7 @@
 - 9/26・27　長野・松本アルプス公園
   - りんご音楽祭2026（出演日未定）
 
-### 🎸 Calvan kaj budro
+### 🎸 [Calvan kaj budro](calvan-kaj-budro.md)
 
 - 9/4　仙台・FLYING SON
 - 9/5　仙台・FLYING SON
