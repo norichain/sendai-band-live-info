@@ -15,7 +15,7 @@
 - 9/26　東京・新宿 club SCIENCE
   - TOKYO CALLING 2026
 
-### 🎸 超酔拳
+### 🎸 [超酔拳](cho-suiken.md)
 
 - 9/5　仙台・FLYING SON
 - 9/6　仙台・音屋スタジオ
