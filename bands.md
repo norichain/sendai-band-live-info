@@ -38,7 +38,7 @@
 - 9/12　石巻・BLUE RESISTANCE
 - ICHIGOICHIE Vol.7
 
-### 🎸 EMPTY DRUG
+### 🎸 [EMPTY DRUG](empty-drug.md)
 
 - 9/4　仙台・FLYING SON
 - 9/12　福島市・Outline
