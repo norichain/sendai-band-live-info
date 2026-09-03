@@ -22,7 +22,7 @@
 - 9/21　仙台・FLYING SON
 - 9/27　秋保・GREAT DANE BREWING
 
-### 🎸 秘密のコペカチータ
+### 🎸 [秘密のコペカチータ](himitsu-no-kopekachita.md)
 
 - 9/4　仙台・FLYING SON
 - 9/5　仙台・Food Bar 郷音々
