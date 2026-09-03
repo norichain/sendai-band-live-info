@@ -4,7 +4,7 @@
 
 ## 🔥 2026年9月 出演情報あり
 
-### 🎸 鉄風東京
+### 🎸 [鉄風東京](teppu-tokyo.md)
 
 - 9/3　仙台・FLYING SON
 - 9/10　神奈川・F.A.D YOKOHAMA
