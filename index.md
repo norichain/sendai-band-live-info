@@ -4,57 +4,528 @@
 
 ## 📅 2026年9月
 
-## 🏠 宮城県内
+---
 
-| 日付 | 会場 | バンド | イベント |
-|---|---|---|---|
-| 9/3 | FLYING SON | 鉄風東京 | FUNNY THINK「RUNNING INTO THE NIGHT TOUR」 |
-| 9/4 | FLYING SON | EMPTY DRUG / 秘密のコペカチータ / Calvan kaj budro | EMPTY DRUG pre.「Angel」 |
-| 9/5 | Sendai PIT | Spike Shoes | HELLO INDIE 2026 -SENDAI- |
-| 9/5 | FLYING SON | 超酔拳 / Calvan kaj budro | plot orange vol.3 |
-| 9/5 | Food Bar 郷音々 | 秘密のコペカチータ | ワンマンライブ |
-| 9/5 | 東北学院高校 | Calvan kaj budro | TG ROCK FES |
-| 9/6 | 音屋スタジオ | 超酔拳 | Negative Pop Party Vol.7 |
-| 9/11 | FLYING SON | EverBrighteller / Aishwaya | レイラ Release Tour |
-| 9/12 | BLUE RESISTANCE | セパゾン | ICHIGOICHIE Vol.7 |
-| 9/15 | FLYING SON | halogen / 28号 / asameshimae | TEITA pre「ROUSOKU.」 |
-| 9/16 | FLYING SON | リリカル | 「イヤホンを外して」 |
-| 9/16 | enn 3rd | 鉄風東京 | WORSTRASH「Love Me Kill Me Tour」 |
-| 9/19 | FLYING SON | 汽水船 / Aishwaya | 汽水船 Release Party |
-| 9/21 | FLYING SON | 超酔拳 | ユタ州結成20周年ツアー |
-| 9/21 | ないわん広場 | 鉄風東京 | KESENNUMA ISARIBI FESTIVAL 🎪 |
-| 9/27 | GREAT DANE BREWING | 超酔拳 / 秘密のコペカチータ | GDB × 知覚動考 MONTHLY LIVE |
-| 9/28 | enn 3rd | THE まっすぐズ | JUNKY58% Release Tour |
+# 🏠 宮城県内
 
-## 🌎 宮城県外
+### 9月3日（木）
 
-| 日付 | 会場 | バンド | イベント |
-|---|---|---|---|
-| 9/6 | 府中Flight | Umisaya | newest 1st Anniv. |
-| 9/10 | F.A.D YOKOHAMA | 鉄風東京 | 共鳴×現場主義 |
-| 9/12 | 福島・Outline | Calvan kaj budro / EMPTY DRUG | anewまいみ生誕祭 |
-| 9/19 | club SONIC iwaki | Umisaya | SEASIDE YOURSIDE tour |
-| 9/19 | 盛岡フェザンSTAGE | Calvan kaj budro | いしがき MUSIC FESTIVAL 🎪 |
-| 9/20 | club SONIC iwaki | EMPTY DRUG / Aishwaya | 「瓦礫」vol.1 |
-| 9/21 | 吉祥寺WARP | Umisaya | Hyper Intensity |
-| 9/21 | 京都nano | EverBrighteller | GOLD Release Tour |
-| 9/21 | 大阪・新神楽 | WITH US | Pia Jirachi Release Tour |
-| 9/22 | the five morioka | Umisaya / Calvan kaj budro | SEASIDE YOURSIDE tour |
-| 9/22 | 酒田hope | EMPTY DRUG / Aishwaya | Release Tour |
-| 9/23 | 大阪HOKAGE | EverBrighteller | GOLD Release Tour |
-| 9/24 | F.A.D YOKOHAMA | EverBrighteller | GOLD Release Tour |
-| 9/25 | 北千住PECKHAM | 大黒崚吾（鉄風東京） | LONGPARTY RECORDS「スラム」 |
-| 9/25 | 下北沢Flowers LOFT | Calvan kaj budro | UYO-ｳﾖ- |
-| 9/26 | 新宿club SCIENCE | 鉄風東京 | TOKYO CALLING 2026 🎪 |
-| 9/26・27 | 松本・アルプス公園 | EMPTY DRUG | りんご音楽祭2026 🎪（出演日未定） |
+📍 **仙台・FLYING SON**
 
-## 🎤 仙台バンドリスト
+🎸 **鉄風東京**
+
+**FUNNY THINK「RUNNING INTO THE NIGHT TOUR」**
+
+18:30 OPEN / 19:00 START
+
+---
+
+### 9月4日（金）
+
+📍 **仙台・FLYING SON**
+
+🎸 **EMPTY DRUG / 秘密のコペカチータ / Calvan kaj budro**
+
+**EMPTY DRUG pre.「Angel」**
+
+18:00 OPEN / 18:30 START
+
+前売あり
+
+---
+
+### 9月5日（土）
+
+📍 **仙台・Sendai PIT**
+
+🎸 **Spike Shoes**
+
+**HELLO INDIE 2026 -SENDAI-**
+
+12:30 OPEN / 13:00 START
+
+Pay What You Can / 2ドリンク
+
+---
+
+### 9月5日（土）
+
+📍 **仙台・FLYING SON**
+
+🎸 **超酔拳 / Calvan kaj budro**
+
+**plot orange vol.3**
+
+17:00 OPEN / 17:30 START
+
+前売 ¥3,000 / 当日 ¥3,500 / U22 ¥2,000
+（＋1D）
+
+---
+
+### 9月5日（土）
+
+📍 **仙台・Food Bar 郷音々**
+
+🎸 **秘密のコペカチータ**
+
+**ワンマンライブ（ピアノ＋ギター編成）**
+
+18:00 OPEN / 19:00 START
+
+¥2,000
+（1ドリンク＋1フード付き）
+
+---
+
+### 9月5日（土）
+
+📍 **東北学院高校**
+
+🎸 **Calvan kaj budro**
+
+**TG ROCK FES**
+
+12:20〜12:50
+
+---
+
+### 9月6日（日）
+
+📍 **仙台・音屋スタジオ**
+
+🎸 **超酔拳**
+
+**Negative Pop Party Vol.7**
+
+17:00 OPEN / 17:30 START
+
+¥2,500＋1D ¥500
+
+---
+
+### 9月11日（金）
+
+📍 **仙台・FLYING SON**
+
+🎸 **EverBrighteller / Aishwaya**
+
+**レイラ 1st Full Album「いまを生きる」Release Tour**
+
+18:30 OPEN / 19:00 START
+
+前売 ¥3,000 / U22 ¥2,000
+（D別 ¥500）
+
+---
+
+### 9月12日（土）
+
+📍 **石巻・BLUE RESISTANCE**
+
+🎸 **セパゾン**
+
+**ICHIGOICHIE Vol.7**
+
+16:00 OPEN / START
+
+---
+
+### 9月15日（火）
+
+📍 **仙台・FLYING SON**
+
+🎸 **halogen / 28号 / asameshimae**
+
+**TEITA pre「ROUSOKU.」**
+
+18:00 OPEN / 18:30 START
+
+前売・当日 ¥1,500
+（D別 ¥500）
+
+---
+
+### 9月16日（水）
+
+📍 **仙台・FLYING SON**
+
+🎸 **リリカル**
+
+**ガラスの靴は落とさない × Flying Son
+「イヤホンを外して」**
+
+18:00 OPEN / 18:30 START
+
+前売 ¥2,000 / 当日 ¥2,500
+（D別 ¥500）
+
+---
+
+### 9月16日（水）
+
+📍 **仙台・enn 3rd**
+
+🎸 **鉄風東京**
+
+**WORSTRASH「Love Me Kill Me Tour ～EXTRA～」**
+
+18:00 OPEN / 18:30 START
+
+前売 ¥2,800 / 当日 ¥3,300
+＋D
+
+---
+
+### 9月19日（土）
+
+📍 **仙台・FLYING SON**
+
+🎸 **汽水船 / Aishwaya**
+
+**汽水船 Pre.
+2nd EP「何層の視界」Release Party
+「なんど透かしても」**
+
+18:00 OPEN / 18:30 START
+
+前売 ¥2,000 / 当日 ¥2,500
+＋D
+
+20歳以下 ¥1,500
+
+---
+
+### 9月21日（月・祝）
+
+📍 **仙台・FLYING SON**
+
+🎸 **超酔拳**
+
+**ユタ州結成20周年ツアー
+「すっとぼけ四人州」**
+
+16:30 OPEN / 17:00 START
+
+前売 ¥3,500 / 当日 ¥4,000
+（D別）
+
+---
+
+### 9月21日（月・祝）
+
+📍 **気仙沼・ないわん広場**
+
+🎸 **鉄風東京**
+
+**KESENNUMA ISARIBI FESTIVAL 2026**
+
+🟨 **FES!**
+
+DAY 1
+
+入場無料
+
+---
+
+### 9月27日（日）
+
+📍 **秋保・GREAT DANE BREWING**
+
+🎸 **超酔拳 / 秘密のコペカチータ**
+
+**GDB × 知覚動考 MONTHLY LIVE**
+
+14:00〜
+
+入場無料
+
+※アコースティック
+
+---
+
+### 9月28日（月）
+
+📍 **仙台・enn 3rd**
+
+🎸 **THE まっすぐズ**
+
+**JUNKY58%「HEARTBREAKER RELEASE TOUR」**
+
+18:30 OPEN / 19:00 START
+
+前売 ¥2,500 / 当日 ¥3,000
+＋1D
+
+---
+
+# 🌎 宮城県外
+
+### 9月6日（日）
+
+📍 **東京・府中Flight**
+
+🎸 **Umisaya**
+
+**newest 1st Anniv.**
+
+15:00 OPEN / 15:30 START
+
+前売 ¥2,400 / 当日 ¥2,900
+＋1D
+
+---
+
+### 9月10日（木）
+
+📍 **神奈川・F.A.D YOKOHAMA**
+
+🎸 **鉄風東京**
+
+**共鳴×現場主義
+「場が、鳴る。」**
+
+18:30 OPEN / 19:00 START
+
+前売 ¥3,000 / 当日 ¥3,500
+
+---
+
+### 9月12日（土）
+
+📍 **福島市・Outline**
+
+🎸 **Calvan kaj budro / EMPTY DRUG**
+
+**anewまいみ生誕祭**
+
+13:00 OPEN / 13:30 START
+
+Tシャツ付き ¥10,000
+通常 ¥3,000
+当日 ¥4,000
+
+学生無料
+
+---
+
+### 9月19日（土）
+
+📍 **福島・club SONIC iwaki**
+
+🎸 **Umisaya**
+
+**lilyray 2nd mini album
+「PLANETES」release tour
+／ Umisaya 2026 Autumn Tohoku Tour**
+
+16:30 OPEN / 17:00 START
+
+前売 ¥2,400＋D
+当日 ¥2,900＋D
+
+---
+
+### 9月19日（土）
+
+📍 **岩手・盛岡フェザンSTAGE**
+
+🎸 **Calvan kaj budro**
+
+**いしがき MUSIC FESTIVAL**
+
+🟨 **FES!**
+
+11:10〜
+
+---
+
+### 9月20日（日）
+
+📍 **福島・club SONIC iwaki**
+
+🎸 **EMPTY DRUG / Aishwaya**
+
+**PEI presents「瓦礫」vol.1**
+
+16:30 OPEN / 17:00 START
+
+前売 ¥2,500＋D
+当日 ¥3,000＋D
+
+---
+
+### 9月21日（月・祝）
+
+📍 **東京・吉祥寺WARP**
+
+🎸 **Umisaya**
+
+**Hyper Intensity**
+
+時間未定
+
+前売 ¥3,300 / 当日 ¥3,800
+＋1D
+
+---
+
+### 9月21日（月・祝）
+
+📍 **京都・Live House nano**
+
+🎸 **EverBrighteller**
+
+**1st full album「GOLD」Release Tour**
+
+18:30 OPEN / 19:00 START
+
+前売 ¥3,000 / 当日 ¥3,500
+＋1D
+
+---
+
+### 9月21日（月・祝）
+
+📍 **大阪・新神楽**
+
+🎸 **WITH US**
+
+**2nd EP「Pia Jirachi」Release Tour**
+
+17:30 OPEN / 18:00 START
+
+前売 ¥2,500 / 当日 ¥3,000
+＋1D
+
+---
+
+### 9月22日（火・祝）
+
+📍 **岩手・the five morioka**
+
+🎸 **Umisaya / Calvan kaj budro**
+
+**SEASIDE YOURSIDE tour 盛岡編**
+
+時間未定
+
+---
+
+### 9月22日（火・祝）
+
+📍 **山形・酒田hope**
+
+🎸 **EMPTY DRUG / Aishwaya**
+
+**「wind of mine,wing of yours」
+＆「to vent」release tour**
+
+17:00 OPEN / 17:30 START
+
+前売 ¥2,000＋1D
+当日 ¥2,500＋1D
+
+---
+
+### 9月23日（水・祝）
+
+📍 **大阪・Music Bar HOKAGE**
+
+🎸 **EverBrighteller**
+
+**1st full album「GOLD」Release Tour**
+
+18:30 OPEN / 19:00 START
+
+前売 ¥3,000 / 当日 ¥3,500
+＋1D
+
+---
+
+### 9月24日（木）
+
+📍 **神奈川・F.A.D YOKOHAMA**
+
+🎸 **EverBrighteller**
+
+**1st full album「GOLD」Release Tour**
+
+18:30 OPEN / 19:00 START
+
+前売 ¥3,000 / 当日 ¥3,500
+＋1D
+
+---
+
+### 9月25日（金）
+
+📍 **東京・北千住 PECKHAM**
+
+🎸 **大黒崚吾（鉄風東京）**
+
+**LONGPARTY RECORDS Pre.
+「スラム」vol.39**
+
+18:30 OPEN / 19:00 START
+
+前売 ¥3,000 / 当日 ¥3,500
+＋1D
+
+---
+
+### 9月25日（金）深夜
+
+📍 **東京・下北沢 Flowers LOFT**
+
+🎸 **Calvan kaj budro**
+
+**『UYO-ｳﾖ-』**
+
+23:30〜
+
+¥2,000＋1D
+
+---
+
+### 9月26日（土）
+
+📍 **東京・新宿 club SCIENCE**
+
+🎸 **鉄風東京**
+
+**TOKYO CALLING 2026**
+
+🟨 **FES!**
+
+鉄風東京出演予定：16:00
+
+---
+
+### 9月26日・27日
+
+📍 **長野・松本アルプス公園**
+
+🎸 **EMPTY DRUG**
+
+**りんご音楽祭2026**
+
+🟨 **FES!**
+
+※9/26・27のどちらか
+※出演日未定
+
+---
+
+# 🎤 仙台バンドリスト
 
 現在24組を掲載しています。
 
 [仙台バンドリストを見る](bands.md)
 
-## ℹ️ このサイトについて
+---
+
+# ℹ️ このサイトについて
 
 ライブ情報は公開されている情報をもとに作成しています。
 
