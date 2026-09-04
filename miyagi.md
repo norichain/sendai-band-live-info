@@ -8,7 +8,7 @@
 
 📍 仙台・FLYING SON
 
-🎸 鉄風東京
+🎸 🎸 [鉄風東京](teppu-tokyo.md)
 
 FUNNY THINK「RUNNING INTO THE NIGHT TOUR」
 
