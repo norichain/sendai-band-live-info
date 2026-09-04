@@ -8,7 +8,7 @@
 
 📍 仙台・FLYING SON
 
-🎸 🎸 [鉄風東京](teppu-tokyo.md)
+🎸 [鉄風東京](teppu-tokyo.md)
 
 FUNNY THINK「RUNNING INTO THE NIGHT TOUR」
 
@@ -20,7 +20,7 @@ FUNNY THINK「RUNNING INTO THE NIGHT TOUR」
 
 📍 仙台・FLYING SON
 
-🎸 EMPTY DRUG / 秘密のコペカチータ / Calvan kaj budro
+🎸 [EMPTY DRUG](empty-drug.md) / [秘密のコペカチータ](himitsu-no-kopekachita.md) / [Calvan kaj budro](calvan-kaj-budro.md)
 
 EMPTY DRUG pre.「Angel」/「wind of mine,wing of yours」ROAD TO ONEMAN tour
 
@@ -32,7 +32,7 @@ EMPTY DRUG pre.「Angel」/「wind of mine,wing of yours」ROAD TO ONEMAN tour
 
 📍 仙台・PIT
 
-🎸 Spike Shoes
+🎸 [Spike Shoes](spike-shoes.md)
 
 HELLO INDIE 2026 -SENDAI-
 
@@ -44,7 +44,7 @@ HELLO INDIE 2026 -SENDAI-
 
 📍 仙台・FLYING SON
 
-🎸 超酔拳 / Calvan kaj budro
+🎸 [超酔拳](cho-suiken.md) / [Calvan kaj budro](calvan-kaj-budro.md)
 
 plot orange vol.3
 
@@ -56,7 +56,7 @@ plot orange vol.3
 
 📍 仙台・Food Bar 郷音々
 
-🎸 秘密のコペカチータ
+🎸 [秘密のコペカチータ](himitsu-no-kopekachita.md)
 
 ワンマンライブ（ピアノ＋ギター編成）
 
@@ -68,7 +68,7 @@ plot orange vol.3
 
 📍 東北学院高校文化祭
 
-🎸 Calvan kaj budro
+🎸 [Calvan kaj budro](calvan-kaj-budro.md)
 
 TG ROCK FES
 
@@ -80,7 +80,7 @@ TG ROCK FES
 
 📍 仙台・音屋スタジオ
 
-🎸 超酔拳
+🎸 [超酔拳](cho-suiken.md)
 
 New Dawn Fades企画「Negative Pop Party Vol.7」
 
@@ -92,7 +92,7 @@ New Dawn Fades企画「Negative Pop Party Vol.7」
 
 📍 仙台・FLYING SON
 
-🎸 EverBrighteller / Aishwaya
+🎸 [EverBrighteller](everbrighteller.md) / [Aishwaya](aishwaya.md)
 
 レイラ 1st Full Album「いまを生きる」Release Tour
 
@@ -104,7 +104,7 @@ New Dawn Fades企画「Negative Pop Party Vol.7」
 
 📍 石巻・BLUE RESISTANCE
 
-🎸 セパゾン
+🎸 [セパゾン](sepazon.md)
 
 ICHIGOICHIE Vol.7 / AGE OF KID 2nd Album「20 Years」Release Tour 石巻編
 
@@ -116,7 +116,7 @@ ICHIGOICHIE Vol.7 / AGE OF KID 2nd Album「20 Years」Release Tour 石巻編
 
 📍 仙台・FLYING SON
 
-🎸 halogen / 28号 / asameshimae
+🎸 [halogen](halogen.md) / [28号](28go.md) / [asameshimae](asameshimae.md)
 
 TEITA pre「ROUSOKU.」
 
@@ -128,7 +128,7 @@ TEITA pre「ROUSOKU.」
 
 📍 仙台・FLYING SON
 
-🎸 リリカル
+🎸 [リリカル](lyrical.md)
 
 ガラスの靴は落とさない × Flying Son Pre.「イヤホンを外して」
 
@@ -140,7 +140,7 @@ TEITA pre「ROUSOKU.」
 
 📍 仙台・enn 3rd
 
-🎸 鉄風東京
+🎸 [鉄風東京](teppu-tokyo.md)
 
 WORSTRASH「Love Me Kill Me Tour ～EXTRA～」
 
@@ -152,7 +152,7 @@ WORSTRASH「Love Me Kill Me Tour ～EXTRA～」
 
 📍 仙台・FLYING SON
 
-🎸 汽水船 / Aishwaya
+🎸 [汽水船](kisuisen.md) / [Aishwaya](aishwaya.md)
 
 汽水船 Pre. 2nd EP「何層の視界」Release Party「なんど透かしても」
 
@@ -164,7 +164,7 @@ WORSTRASH「Love Me Kill Me Tour ～EXTRA～」
 
 📍 仙台・FLYING SON
 
-🎸 超酔拳
+🎸 [超酔拳](cho-suiken.md)
 
 ユタ州結成20周年ツアー「すっとぼけ四人州」
 
@@ -176,7 +176,7 @@ WORSTRASH「Love Me Kill Me Tour ～EXTRA～」
 
 📍 気仙沼・ないわん広場
 
-🎸 鉄風東京
+🎸 [鉄風東京](teppu-tokyo.md)
 
 KESENNUMA ISARIBI FESTIVAL 2026
 
@@ -188,7 +188,7 @@ DAY1
 
 📍 秋保・GREAT DANE BREWING
 
-🎸 超酔拳 / 秘密のコペカチータ
+🎸 [超酔拳](cho-suiken.md) / [秘密のコペカチータ](himitsu-no-kopekachita.md)
 
 GDB × 知覚動考 MONTHLY LIVE
 
@@ -202,7 +202,7 @@ GDB × 知覚動考 MONTHLY LIVE
 
 📍 仙台・enn 3rd
 
-🎸 THE まっすぐズ
+🎸 [THE まっすぐズ](the-massugu-z.md)
 
 JUNKY58%「HEARTBREAKER RELEASE TOUR」
 
