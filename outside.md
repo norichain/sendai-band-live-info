@@ -8,7 +8,7 @@
 
 📍 東京・府中 Flight
 
-🎸 Umisaya
+🎸 [Umisaya](umisaya.md)
 
 newest 1st Anniv.
 
@@ -20,9 +20,10 @@ newest 1st Anniv.
 
 📍 神奈川・F.A.D YOKOHAMA
 
-🎸 鉄風東京
+🎸 [鉄風東京](teppu-tokyo.md)
 
-共鳴×現場主義pre.『場が、鳴る。』 -F.A.D YOKOHAMA 30th Anniversary!! 360°周回GiG!!-
+共鳴×現場主義pre.『場が、鳴る。』
+-F.A.D YOKOHAMA 30th Anniversary!! 360°周回GiG!!-
 
 18:30 OPEN / 19:00 START
 
@@ -32,11 +33,19 @@ newest 1st Anniv.
 
 📍 福島市・Outline
 
-🎸 Calvan kaj budro / EMPTY DRUG
+🎸 [Calvan kaj budro](calvan-kaj-budro.md) / [EMPTY DRUG](empty-drug.md)
 
 anewまいみ生誕祭
 
 13:00 OPEN / 13:30 START
+
+🎫 スポンサーTシャツ ¥10,000（1〜20）
+通常 ¥3,000（21〜100）
+当日 ¥4,000（101〜150）
+学生無料
+※ドリンク別
+
+Lコード：21402
 
 ---
 
@@ -44,11 +53,14 @@ anewまいみ生誕祭
 
 📍 福島・club SONIC iwaki
 
-🎸 Umisaya
+🎸 [Umisaya](umisaya.md)
 
-lilyray 2nd mini album「PLANETES」release tour / Umisaya 2026 Autumn Tohoku Tour「SEASIDE YOURSIDE tour」
+lilyray 2nd mini album「PLANETES」release tour
+Umisaya 2026 Autumn Tohoku Tour「SEASIDE YOURSIDE tour」
 
 16:30 OPEN / 17:00 START
+
+ADV ¥2,400+D / DOOR ¥2,900+D
 
 ---
 
@@ -56,13 +68,13 @@ lilyray 2nd mini album「PLANETES」release tour / Umisaya 2026 Autumn Tohoku To
 
 📍 岩手・盛岡フェザンSTAGE
 
-🎸 Calvan kaj budro
+🎸 [Calvan kaj budro](calvan-kaj-budro.md)
 
 いしがき MUSIC FESTIVAL
 
-11:10
+11:10 START
 
-🎪 FES!
+🟨 FES!
 
 ---
 
@@ -70,23 +82,27 @@ lilyray 2nd mini album「PLANETES」release tour / Umisaya 2026 Autumn Tohoku To
 
 📍 福島・club SONIC iwaki
 
-🎸 EMPTY DRUG / Aishwaya
+🎸 [EMPTY DRUG](empty-drug.md) / [Aishwaya](aishwaya.md)
 
 PEI presents「瓦礫」vol.1
 
 16:30 OPEN / 17:00 START
 
+ADV ¥2,500+D / DOOR ¥3,000+D
+
 ---
 
 ## 9月21日（月・祝）
 
-📍 東京・吉祥寺WARP
+📍 東京・吉祥寺 WARP
 
-🎸 Umisaya
+🎸 [Umisaya](umisaya.md)
 
 「Hyper Intensity」
 
 時間未定
+
+ADV ¥3,300 / DOOR ¥3,800（+1D）
 
 ---
 
@@ -94,11 +110,13 @@ PEI presents「瓦礫」vol.1
 
 📍 京都・Live House nano
 
-🎸 EverBrighteller
+🎸 [EverBrighteller](everbrighteller.md)
 
 EverBrighteller 1st full album「GOLD」Release Tour
 
 18:30 OPEN / 19:00 START
+
+ADV ¥3,000 / DOOR ¥3,500 +1D
 
 ---
 
@@ -106,11 +124,13 @@ EverBrighteller 1st full album「GOLD」Release Tour
 
 📍 大阪・新神楽
 
-🎸 WITH US
+🎸 [WITH US](with-us.md)
 
 WITH US 2nd EP「Pia Jirachi」Release Tour
 
 17:30 OPEN / 18:00 START
+
+ADV ¥2,500 / DOOR ¥3,000 +1D
 
 ---
 
@@ -118,7 +138,7 @@ WITH US 2nd EP「Pia Jirachi」Release Tour
 
 📍 岩手・the five morioka
 
-🎸 Umisaya / Calvan kaj budro
+🎸 [Umisaya](umisaya.md) / [Calvan kaj budro](calvan-kaj-budro.md)
 
 Umisaya「SEASIDE YOURSIDE tour」盛岡編
 
@@ -130,11 +150,14 @@ Umisaya「SEASIDE YOURSIDE tour」盛岡編
 
 📍 山形・酒田 hope
 
-🎸 EMPTY DRUG / Aishwaya
+🎸 [EMPTY DRUG](empty-drug.md) / [Aishwaya](aishwaya.md)
 
-EMPTY DRUG「wind of mine,wing of yours」& Aishwaya 1st EP「to vent」release tour
+EMPTY DRUG「wind of mine,wing of yours」
+& Aishwaya 1st EP「to vent」release tour
 
 17:00 OPEN / 17:30 START
+
+ADV ¥2,000 +1D / DOOR ¥2,500 +1D
 
 ---
 
@@ -142,11 +165,13 @@ EMPTY DRUG「wind of mine,wing of yours」& Aishwaya 1st EP「to vent」release 
 
 📍 大阪・Music Bar HOKAGE
 
-🎸 EverBrighteller
+🎸 [EverBrighteller](everbrighteller.md)
 
 EverBrighteller 1st full album「GOLD」Release Tour
 
 18:30 OPEN / 19:00 START
+
+ADV ¥3,000 / DOOR ¥3,500 +1D
 
 ---
 
@@ -154,11 +179,13 @@ EverBrighteller 1st full album「GOLD」Release Tour
 
 📍 神奈川・F.A.D YOKOHAMA
 
-🎸 EverBrighteller
+🎸 [EverBrighteller](everbrighteller.md)
 
 EverBrighteller 1st full album「GOLD」Release Tour
 
 18:30 OPEN / 19:00 START
+
+ADV ¥3,000 / DOOR ¥3,500 +1D
 
 ---
 
@@ -166,11 +193,15 @@ EverBrighteller 1st full album「GOLD」Release Tour
 
 📍 東京・北千住 PECKHAM
 
-🎸 大黒崚吾（鉄風東京）
+🎸 [鉄風東京](teppu-tokyo.md)
 
 LONGPARTY RECORDS Pre.「スラム」vol.39
 
+大黒崚吾（鉄風東京）
+
 18:30 OPEN / 19:00 START
+
+ADV ¥3,000 / DOOR ¥3,500（+1D）
 
 ---
 
@@ -178,11 +209,13 @@ LONGPARTY RECORDS Pre.「スラム」vol.39
 
 📍 東京・下北沢 Flowers LOFT
 
-🎸 Calvan kaj budro
+🎸 [Calvan kaj budro](calvan-kaj-budro.md)
 
 『UYO-ｳﾖ-』
 
 23:30 START
+
+¥2,000（+1D）
 
 ---
 
@@ -190,29 +223,30 @@ LONGPARTY RECORDS Pre.「スラム」vol.39
 
 📍 東京・新宿 club SCIENCE
 
-🎸 鉄風東京
+🎸 [鉄風東京](teppu-tokyo.md)
 
 TOKYO CALLING 2026
 
-12:00 OPEN / 12:30 START
+鉄風東京 16:00出演予定
 
-🎪 FES!
+イベント 12:00 OPEN / 12:30 START
 
-鉄風東京 出演予定 16:00
+🟨 FES!
 
 ---
 
-## 9月26日（土）または27日（日）
+## 9月26日（土）・27日（日）
 
 📍 長野・松本アルプス公園
 
-🎸 EMPTY DRUG
+🎸 [EMPTY DRUG](empty-drug.md)
 
 りんご音楽祭2026
 
-出演日未定
+出演日は9月26日・27日のどちらか
+※出演日未定
 
-🎪 FES!
+🟨 FES!
 
 ---
 
